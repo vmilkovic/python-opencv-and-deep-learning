@@ -132,3 +132,5 @@ dmypy.json
 .vscode
 
 data/myvideo.*
+data/CATS_DOGS
+**/Deep Learning for Computer Vision/cat_dog_100epochs.h5
